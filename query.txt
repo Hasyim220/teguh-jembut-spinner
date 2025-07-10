@@ -1,0 +1,2 @@
+nama_telegram query_id_anda
+user2 query_id_anda2
